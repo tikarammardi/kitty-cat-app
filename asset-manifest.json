@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kitty-cat-app/static/css/main.795991f2.chunk.css",
+    "main.js": "/kitty-cat-app/static/js/main.807fd517.chunk.js",
+    "main.js.map": "/kitty-cat-app/static/js/main.807fd517.chunk.js.map",
+    "runtime~main.js": "/kitty-cat-app/static/js/runtime~main.a78cbf4a.js",
+    "runtime~main.js.map": "/kitty-cat-app/static/js/runtime~main.a78cbf4a.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/kitty-cat-app/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/kitty-cat-app/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/kitty-cat-app/index.html",
+    "precache-manifest.5d181fd6c96baf941c8ed3316f7b1eab.js": "/kitty-cat-app/precache-manifest.5d181fd6c96baf941c8ed3316f7b1eab.js",
+    "service-worker.js": "/kitty-cat-app/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/kitty-cat-app/static/css/main.795991f2.chunk.css.map",
+    "static/media/logo.png": "/kitty-cat-app/static/media/logo.5d0e5c9b.png"
+  }
+}
